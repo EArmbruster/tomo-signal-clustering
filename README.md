@@ -1,6 +1,6 @@
 # Ribosome Spatial Clustering in Cryo-Electron Tomography
 
-This project explores the 3D spatial distribution of ribosomes identified in a cryo-electron tomography (cryo-ET) dataset, applying unsupervised clustering methods to uncover spatial patterns that may reflect functional subpopulations.
+This project explores the 3D spatial distribution of ribosomes identified in a cryo-electron tomogram, applying unsupervised clustering methods to uncover spatial patterns that may reflect functional subpopulations.
 
 ## Methods
 
